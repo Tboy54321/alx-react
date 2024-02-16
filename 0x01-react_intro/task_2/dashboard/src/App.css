@@ -1,0 +1,35 @@
+header {
+  display: flex;
+}
+
+h1 {
+  color: rgb(224, 4, 4);
+  margin-top: 100px;
+}
+
+hr {
+  width: 100%;
+  border-width: 5px;
+  height: 0;
+}
+
+.App-logo {
+  width: 200px;
+}
+
+.App-body {
+  margin-top: 50px;
+  margin-left: 30px;
+  margin-bottom: 250px;
+  font-weight: 500;
+}
+
+.App-footer {
+  text-align: center;
+  font-weight: 510;
+}
+
+.App-body input {
+  margin-left: 6px;
+  margin-right: 6px;
+}
