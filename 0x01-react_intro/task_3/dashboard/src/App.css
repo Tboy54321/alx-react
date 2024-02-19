@@ -28,3 +28,8 @@ hr {
   text-align: center;
   font-weight: 510;
 }
+
+.App-body input {
+  margin-left: 6px;
+  margin-right: 6px;
+}
